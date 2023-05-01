@@ -1,7 +1,7 @@
 import React from 'react'
 import { useState } from "react";
-import { BsArrowLeftShort, BsBugFill, BsChevronDown, BsFillImageFill, BsPerson, BsReverseLayoutTextSidebarReverse, BsSearch } from "react-icons/bs"
-import {  AiFillContacts, AiFillEnvironment, AiFillFolderAdd, AiOutlineBarChart, AiOutlineFileText, AiOutlineLoading, AiOutlineLogout, AiOutlineMail, AiOutlineSetting } from "react-icons/ai"
+import { BsArrowLeftShort, BsBugFill, BsChevronDown, BsReverseLayoutTextSidebarReverse } from "react-icons/bs"
+import { AiFillContacts, AiFillEnvironment, AiFillFolderAdd, AiOutlineBarChart, AiOutlineLogout } from "react-icons/ai"
 import {FaTwitter} from "react-icons/fa"
 import {BiShow} from "react-icons/bi"
 import {MdOutlineChangeCircle} from 'react-icons/md'
